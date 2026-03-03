@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/goszc/leadspro/main/resources/icon.png" width="120" alt="LeadsPro Logo">
+  <img src="https://raw.githubusercontent.com/goszc/leadspro/icon.png" width="120" alt="LeadsPro Logo">
   <h1>LeadsPro</h1>
   <p><strong>Professional Google Maps Lead Scraper — Local & Licensed</strong></p>
   <p>Extrator de Leads focado em Performance e Automação de Vendas B2B.</p>
